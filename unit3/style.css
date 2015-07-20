@@ -1,0 +1,21 @@
+h1, head, body, p, ul {
+	color: black;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 48
+}
+h1, #slogan { text-align: center;
+}
+#slogan {
+	font-style: italic;
+	font-size: 32
+}
+title, #slogan {text-align: center;
+}
+body {
+	background-size: cover;
+	background-image: <img src="unit3/desk1.png">
+}
