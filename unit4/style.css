@@ -1,0 +1,21 @@
+h1, head, body, p, ul {
+	color: black;
+}
+h1 {
+	font-family: 'Orbitron', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 32px
+}
+h1, #slogan { text-align: center;
+}
+#slogan {
+	font-style: italic;
+	font-size: 18px
+}
+title, #slogan {text-align: center;
+}
+body {
+	background-size: cover;
+	background-image: <img src="unit3/desk1.png">
+}
