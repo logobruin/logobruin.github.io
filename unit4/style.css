@@ -1,3 +1,7 @@
+body {
+	background-size: cover;
+	background-image: url("zen3.png");
+}
 h1, head, body, p, ul {
 	color: black;
 }
@@ -14,8 +18,4 @@ h1, #slogan { text-align: center;
 	font-size: 18px
 }
 title, #slogan {text-align: center;
-}
-body {
-	background-size: cover;
-	background-image: <img src="unit3/desk1.png">
 }
